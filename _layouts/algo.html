@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% if page.modifier %}<i>By {{page.modifier}} <span class="glyphicon glyphicon-time"></span>{{ page.modtime }}</i>{% endif %}
+{% if page.modifier %}<i>By {{page.modifier}} <span class="glyphicon glyphicon-time"></span>{{ page.modtime | date: "%m/%d/%Y %H:%M:%S %Z"}}</i>{% endif %}
 {{ content }}
 {% if page.comments %}
 <hr/>

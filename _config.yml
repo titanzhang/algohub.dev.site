@@ -25,6 +25,7 @@ searchbase: "http://search.dev.algohub.me:3001"
 mgmtbase: "http://mgmt.dev.algohub.me:3000/content"
 #twitter_username: jekyllrb
 #github_username:  jekyll
+timezone: "America/Los_Angeles"
 
 # Build settings
 markdown: kramdown
