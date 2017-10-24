@@ -6,10 +6,10 @@ title: test3
 tags:
   - Dynamic Programming
 modifier: titanzhang2@gmail.com
-modtime: '2017-10-24T18:11:19.796Z'
+modtime: '2017-10-24T18:12:38.832Z'
 
 ---
-{% capture section_desc %}{% endcapture %}
+{% capture section_desc %}abc{% endcapture %}
 {% capture section_complexity %}{% endcapture %}
 {% capture section_pseudocode %}{% endcapture %}
 {% capture section_edu %}{% endcapture %}
