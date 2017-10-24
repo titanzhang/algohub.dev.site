@@ -7,10 +7,10 @@ tags:
   - Divide and Conquer
   - Search
 modifier: titanzhang2@gmail.com
-modtime: '2017-10-24T17:45:33.580Z'
+modtime: '2017-10-24T17:47:24.830Z'
 
 ---
-{% capture section_desc %}{% endcapture %}
+{% capture section_desc %}abc{% endcapture %}
 {% capture section_complexity %}{% endcapture %}
 {% capture section_pseudocode %}{% endcapture %}
 {% capture section_edu %}{% endcapture %}
