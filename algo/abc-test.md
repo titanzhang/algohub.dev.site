@@ -4,9 +4,9 @@ index: true
 comments: true
 title: abc test
 tags:
-  - Greedy
+  - Divide and Conquer
 modifier: titanzhang2@gmail.com
-modtime: '2017-10-24T17:38:13.503Z'
+modtime: '2017-10-24T17:39:06.154Z'
 
 ---
 {% capture section_desc %}{% endcapture %}
