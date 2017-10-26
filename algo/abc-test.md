@@ -2,7 +2,7 @@
 layout: algo
 index: true
 comments: true
-title: abc test
+title: Abc test
 tags:
   - Divide and Conquer
   - Search

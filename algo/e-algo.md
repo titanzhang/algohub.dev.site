@@ -2,7 +2,7 @@
 layout: algo
 index: true
 comments: true
-title: c algo
+title: e algo
 tags:
   - Divide and Conquer
 modifier: titanzhang@gmail.com

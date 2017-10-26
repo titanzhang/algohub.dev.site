@@ -2,11 +2,11 @@
 layout: algo
 index: true
 comments: true
-title: test2
+title: dy pest a
 tags:
-  - Greedy
+  - Search
 modifier: titanzhang@gmail.com
-modtime: '2017-10-26T08:04:42.230Z'
+modtime: '2017-10-26T08:14:55.920Z'
 
 ---
 {% capture section_desc %}{% endcapture %}
