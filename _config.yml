@@ -35,3 +35,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+api:
+  userCheckLoginAPI: "http://mgmt.dev.algohub.me:3000/user/checkLogin"
+  userLoginAPI: "http://mgmt.dev.algohub.me:3000/user/login"
+  commentSaveAPI: "http://mgmt.dev.algohub.me:3000/comment/add"
