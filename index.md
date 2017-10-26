@@ -12,7 +12,6 @@ layout: default
 {% endfor %}
 </h4>
 <div>Updated: <span class="glyphicon glyphicon-time"></span>{{ page.modtime | date: "%m/%d/%Y" }}</div>
-<!-- <a class="btn btn-primary" href="{{ page.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a> -->
 <div>{{ page.content | strip_html | truncatewords:75 }}</div>
 <hr/>
 </div>
