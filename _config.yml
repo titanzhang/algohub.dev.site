@@ -23,6 +23,7 @@ jsbase: "http://static.dev.algohub.me:8301/1/js"
 cssbase: "http://static.dev.algohub.me:8301/1/css"
 searchbase: "http://search.dev.algohub.me:3001"
 mgmtbase: "http://mgmt.dev.algohub.me:3000/content"
+surveybase: "http://mgmt.dev.algohub.me:3000/survey"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 timezone: "America/Los_Angeles"
